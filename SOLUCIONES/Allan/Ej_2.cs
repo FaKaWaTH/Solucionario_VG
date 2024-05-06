@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Listado6
+namespace Ej_2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //2.-
-
             float f, c, a, m;
 
             Console.WriteLine("\n\tConversión de Fahrenhait a Celsius");
@@ -29,3 +27,5 @@ namespace Listado6
         }
     }
 }
+
+
