@@ -1,1 +1,68 @@
 
+1.- Queremos conocer los datos estadísticos de una asignatura, por lo tanto, necesitamos 
+un programa que lea el número de total de alumnos y la cantidad de alumnos 
+reprobados, para obtener como resultado: 
+  
+  * El porcentaje de alumnos que han aprobado la asignatura. 
+  * El porcentaje de alumnos que han reprobado la asignatura. 
+
+2.- Un departamento de climatología ha realizado recientemente su conversión al sistema 
+métrico. Diseñar un programa para realizar las siguientes conversiones: 
+  
+  * Leer la temperatura en escala Fahrenheit e imprimirla en Celsius.
+    Para convertir use la siguiente fórmula: Fº = 9/5Cº + 32 
+   
+  *Leer la cantidad de agua precipitada en pulgadas e imprimir su 
+    equivalente en milímetros. Para convertir use la siguiente 
+    fórmula:  2.54 cm = 1 pulgada
+
+3.- En la competencia atlética de velocidad de los 100 metros planos el tiempo se mide en 
+segundos y centésimas de segundo mientras que la distancia recorrida está en metros. 
+Diseñar un programa para determinar la velocidad promedio de un atleta en Km/hr. 
+  
+  * ¿A qué velocidad habrá corrido Usain Bolt, durante el Mundial de Atletismo el año 
+    2009, cuando ganó el oro y logró el record mundial con un tiempo de 9.58 segundos? 
+  
+  * La primera medalla de oro en los 100 metros planos de las olimpiadas modernas fue 
+    entregada en Atenas en 1896. El tiempo registrado fue de 12 segundos.
+    ¿a qué velocidad corrió ese atleta? 
+
+4.- Diseñar un programa que lea una cantidad de segundos en indique a cuantas horas, minutos y segundos equivale: 
+    
+    Ejemplo 400 segundos equivalen a 0 horas, 6 minutos y 40 segundos. 
+    Otro ejemplo: 9000 segundos equivalen a 2 horas, 30 minutos y 0 segundos. 
+
+5.- El sueldo bruto de un vendedor se calcula como la suma de un sueldo base de $128.000 más el 12% del monto total vendido.  
+Diseñar un programa que determine el sueldo neto de un vendedor sabiendo que hizo 5 ventas al mes.  
+
+6.- En los países de habla inglesa es común dar la estatura de una persona como la suma de una cantidad 
+entera de pies más una cantidad de pulgadas. Así, la estatura de una persona podría ser 3'2" (3 pies y 2 pulgadas). 
+Crear un programa que determine la estatura de una persona en metros conociendo su estatura en formato inglés. 
+Considerar 1 pie = 12 pulgadas, 1 Pulgada = 2.54 cm. 
+
+7.- Diseñe un programa que exprese la capacidad de un disco duro en megabytes, kilobytes y 
+bytes, conociendo la capacidad del disco en Gigabytes. 
+
+8.- Diseñe un programa que calcule el valor del costo mensual en pasajes de locomoción
+colectiva sabiendo el valor de pasaje y la cantidad de viajes diarios a la semana.
+Se considerará la semana de 5 días solamente (lunes a viernes).  
+
+9.- Diseñe un programa que calcule la nota de examen que debe sacarse un alumno conociendo 
+sólo su nota de presentación (NP). Recuerde que la nota final se calcula así: NF = 40% EXAMEN  + 60 % NP 
+
+
+10.- Diseñe un programa que calcule la nota de presentación de un ramo si se conoce las notas de los tres 
+certámenes del alumno (C1, C2 y C3). La nota de presentación (NP) se calcula así: NP= 25% C1 + 35 % C2 + 40 % C3
+
+11.- Diseñar un programa que sume todos los dígitos de un número entero positivo de 3 dígitos.  
+Por ejemplo si el número es 307 la suma de sus dígitos es 10= 3+0+7 
+
+12.- Diseñar un programa que lea un año y determine mediante un mensaje si es o no un año bisiesto. Un año bisiesto 
+es todo año que es divisible por 4. Pero no deben considerar aquellos divisibles por 100 pero no divisibles por 400: 
+
+  * Ejemplos de años bisiestos: 1968, 2000, 2016 
+  * Años que no son bisiestos: 1600, 1990, 2018 
+ 
+
+
+ 
